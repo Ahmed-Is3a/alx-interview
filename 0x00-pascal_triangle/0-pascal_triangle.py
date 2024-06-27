@@ -5,7 +5,9 @@
 
 
 def pascal_triangle(n):
-
+    """
+    a function that return a pascals traingle
+    """
     if n <= 0:
         return []
 
